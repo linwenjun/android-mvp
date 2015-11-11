@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mvp-demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_name">Name:</string>
+    <string name="label_id">Id:</string>
+    <string name="button_save">Save</string>
+    <string name="button_load">load</string>
+</resources>
